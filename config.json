@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdelete",
+        "uuid": 3861040,
+        "checksum": "u42bh6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
